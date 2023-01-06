@@ -1,1 +1,11 @@
-discord.py==1.5.0
+aiohttp==3.8.3
+aiosignal==1.3.1
+async-timeout==4.0.2
+attrs==22.1.0
+charset-normalizer==2.1.1
+discord==2.1.0
+discord.py @ git+https://github.com/Rapptz/discord.py@da317ad84b0f34a574c2a40248ba5ce23c2f6597
+frozenlist==1.3.3
+idna==3.4
+multidict==6.0.2
+yarl==1.8.1
